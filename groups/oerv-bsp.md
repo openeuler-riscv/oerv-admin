@@ -1,4 +1,4 @@
-# BSP 开发小组 **OERV-BSP** 
+# BSP 开发小组 **OERV-BSP**
 
 组长：（缺）
 

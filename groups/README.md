@@ -22,6 +22,8 @@
 
 ## 小组列表
 
+本目录作为小组建设的核心目标管理，小组具体细节管理围绕这些目标进一步展开。
+
 - [oerv-sdk](./oerv-sdk.md): 刘鑫
 - [oerv-parallel](./oerv-parallel.md): 周嘉诚
 - [oerv-rvn](./oerv-rvn.md): 孙越池
@@ -33,5 +35,6 @@
 - [oerv-trace](./oerv-trace.md): 张凯
 - [oerv-virt](./oerv-virt.md): 何若轻
 - [oerv-bsp](./oerv-bsp.md): (暂缺)
-- [oerv-build](./oerv-build.md): 汪洋
 - [oerv-maso](./oerv-maso.md): (暂缺)
+- [oerv-public](./oerv-public.md): 王经纬
+- [oerv-build](./oerv-build.md): 汪洋

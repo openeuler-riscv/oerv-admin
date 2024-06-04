@@ -13,6 +13,7 @@
 - 组员: 刘鑫、周嘉诚 、张定立、邢明政、张凯、吴洁、汪洋、汪流、孙越池，罗君、何若轻
 
 ## 分组管理
+
 管理地址:  <https://github.com/openeuler-riscv/oerv-admin/groups/README.md>
 
 ## 会议方式
