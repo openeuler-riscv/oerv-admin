@@ -1,4 +1,4 @@
-# 社区经营小组 **OERV-PUBLIC**
+# 社区经营小组 **OERV-KANBAN**
 
 组长: 王经纬
 
